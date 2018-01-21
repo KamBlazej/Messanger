@@ -1,0 +1,31 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	
+}
+textarea{
+	border:solid 2px black;
+}
+.inline
+{
+	display:inline-block;
+	vertical-align:top;
+	margin-right:10px;
+}
+.channel
+{
+	border:1px solid black;
+	font-size:20px;
+	padding:8px;
+}
+.channel:hover
+{
+    cursor:pointer;
+	background:#4286f4;
+}
+.channelSet
+{
+	font-weight:bold;
+	
+}
